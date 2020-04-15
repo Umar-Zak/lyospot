@@ -1,0 +1,30 @@
+{
+  "name": "lyospotbackend",
+  "version": "1.0.0",
+  "description": "a sales platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "author": "umar zak",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^4.0.1",
+    "config": "^3.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "fawn": "^2.1.5",
+    "helmet": "^3.22.0",
+    "jest": "^25.1.0",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.5",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.6",
+    "stripe": "^8.39.0",
+    "supertest": "^4.0.2",
+    "twilio": "^3.42.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "db": "mongodb://localhost/lyospot-test",
+  "secretKey": "testingsecret",
+  "accountSid": "AC31c948051fc74dff3319203a95036349",
+  "auth": "9b12a547eccc34c5c888e962619e793a"
+}
